@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b7cebbee-7e85-4c45-8f2c-a7f35deee8e8" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="package-info" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1UqgDSjGYlFlBnIiR11Adt4vm8T" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Main" />
+      <module name="CurrencyConverter" />
+      <option name="PROGRAM_PARAMETERS" value="GEL AMD 100" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b7cebbee-7e85-4c45-8f2c-a7f35deee8e8" name="Default Changelist" comment="" />
+      <created>1576089420580</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1576089420580</updated>
+      <workItem from="1576089428904" duration="4026000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="400" y="34" key="#Main" timestamp="1576095338756">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="400" y="34" key="#Main/0.0.1366.728@0.0.1366.728" timestamp="1576095338756" />
+    <state width="401" height="466" key="DebuggerActiveHint" timestamp="1576091474997">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="401" height="466" key="DebuggerActiveHint/0.0.1366.728@0.0.1366.728" timestamp="1576091474997" />
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom" timestamp="1576095820640">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1576095820640" />
+    <state width="1323" height="179" key="GridCell.Tab.0.center" timestamp="1576095820639">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1576095820639" />
+    <state width="1323" height="179" key="GridCell.Tab.0.left" timestamp="1576095820639">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1576095820639" />
+    <state width="1323" height="179" key="GridCell.Tab.0.right" timestamp="1576095820639">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1576095820639" />
+    <state width="1323" height="223" key="GridCell.Tab.1.bottom" timestamp="1576095774691">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1576095774691" />
+    <state width="1323" height="223" key="GridCell.Tab.1.center" timestamp="1576095774690">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1576095774690" />
+    <state width="1323" height="223" key="GridCell.Tab.1.left" timestamp="1576095774690">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1576095774690" />
+    <state width="1323" height="223" key="GridCell.Tab.1.right" timestamp="1576095774691">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1576095774691" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/company/Add.java</url>
+          <line>5</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/company/ArgumentParser.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/company/Convert.java</url>
+          <line>5</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="((String)((HashMap.Node)((HashMap)argumentParser.commands).entrySet().toArray()[0]).getKey()).value" custom="java.util.HashMap.Node,java.lang.String,java.util.HashMap" />
+        <watch expression="((HashMap)argumentParser.commands).entrySet().toArray()[1]" custom="java.util.HashMap" />
+        <watch expression="((HashMap)argumentParser.commands).entrySet().toArray()[1]" custom="java.util.HashMap" />
+        <watch expression="((HashMap)argumentParser.commands).entrySet().toArray()[1]" language="JAVA" custom="java.util.HashMap" />
+        <watch expression="((HashMap)argumentParser.commands).entrySet().toArray()[1]" language="JAVA" custom="java.util.HashMap" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>
